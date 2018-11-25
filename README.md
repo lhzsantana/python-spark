@@ -18,7 +18,7 @@ Refer to https://spark.apache.org/docs/latest/index.html#downloading
 ./sbin/start-slave.sh <master-spark-URL>  
 
 ### Run streaming.py
-./bin/spark-submit streaming.py localhost 9000  
+python streaming.py
 
 ### Test creating messages in the socket
 $ nc -lk 9999  
