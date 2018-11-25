@@ -13,7 +13,7 @@ $ python daily.py 1,2,3
 
 ## Spark
 ### Download and start Spark cluster
-Refer to https://spark.apache.org/docs/latest/index.html#downloading
+Refer to https://spark.apache.org/docs/latest/index.html#downloading  
 ./sbin/start-master.sh  
 ./sbin/start-slave.sh <master-spark-URL>  
 
