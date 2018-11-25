@@ -8,7 +8,7 @@ $ pip import redis
 $ pip import pyspark  
 
 ## Python
-To run the periorid task do:  
+To run the update task do:  
 $ python daily.py 1,2,3  
 
 ## Spark
